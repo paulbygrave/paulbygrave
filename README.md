@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulbygrave
-- 👀 I’m interested in DevOps, Kubernetes, Python and CI/CD.
+- 👀 I’m interested in DevOps, AWS, Containerisation (K8s, Docker, ECS), CI/CD and Python.
 - 🌱 I’m currently learning Kubernetes & Python.
 - 💞️ I’m looking to collaborate on learning resources that demonstrate core skills.
 - 📫 You can reach me via email, paulrpbygrave@gmail.com.
